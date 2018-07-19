@@ -1,11 +1,4 @@
 # Project Outline
-For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide feedback and direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline, or if you have to change some things later.
-
-## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/assignments/project-outline/)
-
-## Submission Instructions
-
 ### Overview
 According to the Independent Book Publishers Association (IBPA), 200 million Americans say they want to write a book. That’s about two-thirds of the population. How many of them actually do that? Considering that 129 million books have been published, ever, the answer is: not many. It’s hard to know how to do it if you don’t know where to start. It’s easier if you have a plan… an outline.
  
@@ -28,14 +21,13 @@ For writers of fiction, the outline is a sometimes contentious step in the proce
 * (Bonus) Paid/Pro: What if there’s a paid option? Payment integration?
 
 ### Technologies
-* Programming language: C# or Java (do not currently know Java)
-  * If C#: ASP .NET MVC
-  * If Java: whatever passes for an MVC framework in that language
+* Programming language: C#
+* ASP .NET MVC
 * HTML and CSS
 * Bootstrap
 
-
 ### What I'll Have to Learn
-* Java, if I decide to code this in a language I can code in natively in the macOS, without having to run the (sluggish and memory-intensive) Windows virtual machine
-* Java’s MVC framework
 * How to interface with Google’s API so people can export their outlines to Google docs
+* I will need to step up my CSS skills to make this look more customized and less like out-of-the-box.
+* I'll want their output to be clean and easy to use and/or modify, so I'll need to learn how to export the outline information from the database into a clean, formatted document for Word / PDF.
+* (Bonus) Integration with payment platform (Paypal/Stripe/Gumroad/etc.)
