@@ -8,8 +8,12 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+* [Landing Page](https://github.com/rickerje/liftoff-assignments/blob/master/P3-Project_Planning/Wireframes/1_Outliner_LandingPage.jpg)
+* [User Signup](https://github.com/rickerje/liftoff-assignments/blob/master/P3-Project_Planning/Wireframes/2_Outliner_Signup.jpg)
+* [Logged-in User](https://github.com/rickerje/liftoff-assignments/blob/master/P3-Project_Planning/Wireframes/3_Outliner_LoggedIn.jpg)
+* [Create New Outline](https://github.com/rickerje/liftoff-assignments/blob/master/P3-Project_Planning/Wireframes/4_Outliner_CreateNewOutline.jpg)
+* [Outline Creation](https://github.com/rickerje/liftoff-assignments/blob/master/P3-Project_Planning/Wireframes/5_Outliner_OutlineCreation.jpg)
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+[Pivotal Tracker Project](https://www.pivotaltracker.com/n/projects/2180674)
