@@ -7,12 +7,12 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[GitHub](https://www.github.com/rickerje)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[LinkedIn Profile](https://www.linkedin.com/in/jeffreyricker/)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+[Technical Resume (PDF format)](https://github.com/rickerje/liftoff-assignments/blob/master/C1-Online_Profiles/Jeffrey%20Ricker%20Technical.pdf)
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository talk with your Mentor about an alternate way to submit this assignment.
