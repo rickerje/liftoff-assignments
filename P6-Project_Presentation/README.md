@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Project Presentation: Outliner](https://github.com/rickerje/liftoff-assignments/blob/master/P6-Project_Presentation/capstone-presentation-outliner.pdf)
